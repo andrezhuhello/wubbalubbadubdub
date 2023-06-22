@@ -14,6 +14,15 @@ how to initialize git repository locally:
 
 ------
 
+link local repository to github repository:
+  1) git remote add origin <REMOTE_URL>  
+    \# Sets the new remote  
+  2) git remote -v  
+    \# Verifies the new remote URL
+  3) git push origin main
+    \# Pushes the changes in your local repository up to the remote repository you specified as the origin   
+
+------
 
 
 
