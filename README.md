@@ -5,6 +5,11 @@ $ git --version
 
 ------
 
+clone github repository to local directory  
+  1) git clone git@github.com:userhandle/repositoryname
+
+------
+
 how to initialize git repository locally:  
   1)  git init -b main  
   2)  $ git add .  
